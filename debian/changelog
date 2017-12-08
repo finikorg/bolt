@@ -1,0 +1,5 @@
+bolt (0.1.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Andrei Emeltchenko <andrei.emeltchenko@gmail.com>  Fri, 08 Dec 2017 16:21:03 +0200
